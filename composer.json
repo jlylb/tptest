@@ -1,0 +1,12 @@
+{
+    "name": "jlylb/tptest",
+    "description": "thinkphp test",
+    "authors": [
+        {
+            "name": "jlylb",
+            "email": "jlylb@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
